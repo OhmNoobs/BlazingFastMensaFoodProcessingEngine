@@ -1,0 +1,1 @@
+Speiseplan <br><h4>(.*?)</h4>Essen (?P<meal_number>\d)</br>((?P<meal_name>.*?<sup>.*?\[(?P<meal_contents>.*?)\].*?</sup></br>)|(</br>))(?P<meal_price_student>.*?)&nbsp;.*?</br>(<img(.*?icons/(.*?)).png.*?>)*
